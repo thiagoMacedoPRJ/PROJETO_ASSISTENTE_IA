@@ -1,0 +1,8 @@
+
+https://github.com/IDMNYU/p5.js-speech/pull/24/commits/e33ee34220f76cc2e2535f69dea30150a2e8c37f
+
+este comando adicional e para desligar o reconhecimento
+
+https://github.com/IDMNYU/p5.js-speech/issues/21
+
+este explica um pouco de como usa o verificador de desligar
