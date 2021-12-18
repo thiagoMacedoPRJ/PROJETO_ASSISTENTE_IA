@@ -54,7 +54,7 @@
 			console.log("CHEGUEI NO Reck 2");
 
 			var myRec2 = new p5.SpeechRec(); 
-			myRec2.continuous = true; on
+			myRec2.continuous = true;
 			myRec2.interimResults = true; 
 			myRec2.onResult = MostraResul2;
 			//myRec2.onError = top2;  usar este metodo quando acontecer algum erro de navegador ou internet!!
